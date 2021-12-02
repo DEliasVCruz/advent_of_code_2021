@@ -1,5 +1,5 @@
 if __name__ == "__main__":
-    with open("./day1_part1_input.txt", "r") as f:
+    with open("./input.txt", "r") as f:
         data = [int(line[:-1]) for line in f]
 
     increments = 0

@@ -1,0 +1,415 @@
+root - INFO - Created raw data as a list
+root - INFO - Created list of numbers as:
+ [15, 62, 2, 39, 49, 25, 65, 28, 84, 59, 75, 24, 20, 76, 60, 55, 17, 7, 93, 69, 32, 23, 44, 81, 8, 67, 41, 56, 43, 89, 95, 97, 61, 77, 64, 37, 29, 10, 79, 26, 51, 48, 5, 86, 71, 58, 78, 90, 57, 82, 45, 70, 11, 14, 13, 50, 68, 94, 99, 22, 47, 12, 1, 74, 18, 46, 4, 6, 88, 54, 83, 96, 63, 66, 35, 27, 36, 72, 42, 98, 0, 52, 40, 91, 33, 21, 34, 85, 3, 38, 31, 92, 9, 87, 19, 73, 30, 16, 53, 80]
+root - INFO - Initializing boards creation variables
+root - INFO - Finished boards variables creation
+root - DEBUG - Board name is board_1
+root - DEBUG - The board rows are [[92, 3, 88, 13, 50], [90, 70, 24, 28, 52], [15, 98, 10, 26, 5], [84, 34, 37, 73, 87], [25, 36, 74, 33, 63]]
+root - DEBUG - The board columns are [[92, 90, 15, 84, 25], [3, 70, 98, 34, 36], [88, 24, 10, 37, 74], [13, 28, 26, 73, 33], [50, 52, 5, 87, 63]]
+root - INFO - Successfully created board object number 1
+root - DEBUG - Board name is board_2
+root - DEBUG - The board rows are [[66, 64, 50, 75, 53], [73, 24, 80, 84, 5], [72, 20, 68, 1, 99], [83, 57, 44, 60, 52], [32, 15, 59, 48, 98]]
+root - DEBUG - The board columns are [[66, 73, 72, 83, 32], [64, 24, 20, 57, 15], [50, 80, 68, 44, 59], [75, 84, 1, 60, 48], [53, 5, 99, 52, 98]]
+root - INFO - Successfully created board object number 2
+root - DEBUG - Board name is board_3
+root - DEBUG - The board rows are [[33, 51, 85, 92, 89], [38, 22, 93, 62, 75], [24, 76, 50, 90, 25], [69, 6, 52, 77, 3], [47, 9, 88, 53, 63]]
+root - DEBUG - The board columns are [[33, 38, 24, 69, 47], [51, 22, 76, 6, 9], [85, 93, 50, 52, 88], [92, 62, 90, 77, 53], [89, 75, 25, 3, 63]]
+root - INFO - Successfully created board object number 3
+root - DEBUG - Board name is board_4
+root - DEBUG - The board rows are [[78, 75, 29, 32, 73], [22, 85, 42, 1, 23], [80, 98, 81, 58, 9], [61, 76, 69, 83, 53], [71, 7, 15, 11, 95]]
+root - DEBUG - The board columns are [[78, 22, 80, 61, 71], [75, 85, 98, 76, 7], [29, 42, 81, 69, 15], [32, 1, 58, 83, 11], [73, 23, 9, 53, 95]]
+root - INFO - Successfully created board object number 4
+root - DEBUG - Board name is board_5
+root - DEBUG - The board rows are [[33, 57, 76, 73, 26], [6, 71, 35, 39, 85], [54, 77, 36, 14, 87], [66, 79, 8, 64, 32], [2, 84, 98, 34, 13]]
+root - DEBUG - The board columns are [[33, 6, 54, 66, 2], [57, 71, 77, 79, 84], [76, 35, 36, 8, 98], [73, 39, 14, 64, 34], [26, 85, 87, 32, 13]]
+root - INFO - Successfully created board object number 5
+root - DEBUG - Board name is board_6
+root - DEBUG - The board rows are [[43, 51, 16, 95, 59], [22, 53, 6, 49, 94], [32, 72, 46, 23, 37], [40, 85, 39, 45, 74], [87, 62, 69, 98, 0]]
+root - DEBUG - The board columns are [[43, 22, 32, 40, 87], [51, 53, 72, 85, 62], [16, 6, 46, 39, 69], [95, 49, 23, 45, 98], [59, 94, 37, 74, 0]]
+root - INFO - Successfully created board object number 6
+root - DEBUG - Board name is board_7
+root - DEBUG - The board rows are [[84, 5, 73, 32, 23], [40, 64, 98, 27, 8], [80, 71, 1, 31, 69], [46, 42, 7, 4, 70], [88, 90, 48, 33, 29]]
+root - DEBUG - The board columns are [[84, 40, 80, 46, 88], [5, 64, 71, 42, 90], [73, 98, 1, 7, 48], [32, 27, 31, 4, 33], [23, 8, 69, 70, 29]]
+root - INFO - Successfully created board object number 7
+root - DEBUG - Board name is board_8
+root - DEBUG - The board rows are [[3, 91, 8, 98, 50], [54, 70, 29, 94, 25], [17, 77, 33, 46, 12], [28, 36, 39, 40, 5], [22, 38, 51, 69, 45]]
+root - DEBUG - The board columns are [[3, 54, 17, 28, 22], [91, 70, 77, 36, 38], [8, 29, 33, 39, 51], [98, 94, 46, 40, 69], [50, 25, 12, 5, 45]]
+root - INFO - Successfully created board object number 8
+root - DEBUG - Board name is board_9
+root - DEBUG - The board rows are [[90, 35, 94, 31, 44], [11, 13, 74, 38, 49], [60, 96, 91, 63, 16], [23, 26, 84, 41, 7], [73, 65, 32, 18, 81]]
+root - DEBUG - The board columns are [[90, 11, 60, 23, 73], [35, 13, 96, 26, 65], [94, 74, 91, 84, 32], [31, 38, 63, 41, 18], [44, 49, 16, 7, 81]]
+root - INFO - Successfully created board object number 9
+root - DEBUG - Board name is board_10
+root - DEBUG - The board rows are [[62, 42, 35, 21, 87], [57, 27, 26, 71, 94], [73, 92, 77, 53, 86], [1, 60, 38, 75, 43], [10, 70, 55, 84, 5]]
+root - DEBUG - The board columns are [[62, 57, 73, 1, 10], [42, 27, 92, 60, 70], [35, 26, 77, 38, 55], [21, 71, 53, 75, 84], [87, 94, 86, 43, 5]]
+root - INFO - Successfully created board object number 10
+root - DEBUG - Board name is board_11
+root - DEBUG - The board rows are [[3, 58, 57, 66, 51], [67, 94, 37, 86, 25], [33, 11, 4, 36, 83], [64, 2, 0, 13, 59], [77, 19, 80, 93, 97]]
+root - DEBUG - The board columns are [[3, 67, 33, 64, 77], [58, 94, 11, 2, 19], [57, 37, 4, 0, 80], [66, 86, 36, 13, 93], [51, 25, 83, 59, 97]]
+root - INFO - Successfully created board object number 11
+root - DEBUG - Board name is board_12
+root - DEBUG - The board rows are [[99, 13, 24, 49, 90], [96, 15, 10, 67, 2], [9, 78, 5, 42, 80], [28, 75, 51, 58, 82], [31, 83, 20, 60, 48]]
+root - DEBUG - The board columns are [[99, 96, 9, 28, 31], [13, 15, 78, 75, 83], [24, 10, 5, 51, 20], [49, 67, 42, 58, 60], [90, 2, 80, 82, 48]]
+root - INFO - Successfully created board object number 12
+root - DEBUG - Board name is board_13
+root - DEBUG - The board rows are [[91, 38, 65, 34, 58], [71, 28, 66, 64, 72], [63, 10, 83, 37, 56], [84, 39, 19, 51, 74], [23, 90, 81, 85, 13]]
+root - DEBUG - The board columns are [[91, 71, 63, 84, 23], [38, 28, 10, 39, 90], [65, 66, 83, 19, 81], [34, 64, 37, 51, 85], [58, 72, 56, 74, 13]]
+root - INFO - Successfully created board object number 13
+root - DEBUG - Board name is board_14
+root - DEBUG - The board rows are [[12, 42, 10, 11, 29], [99, 60, 24, 94, 25], [9, 40, 76, 33, 97], [32, 75, 16, 37, 27], [15, 69, 54, 52, 22]]
+root - DEBUG - The board columns are [[12, 99, 9, 32, 15], [42, 60, 40, 75, 69], [10, 24, 76, 16, 54], [11, 94, 33, 37, 52], [29, 25, 97, 27, 22]]
+root - INFO - Successfully created board object number 14
+root - DEBUG - Board name is board_15
+root - DEBUG - The board rows are [[31, 40, 33, 45, 89], [61, 82, 9, 32, 75], [60, 88, 91, 27, 62], [79, 94, 36, 83, 25], [56, 39, 8, 13, 55]]
+root - DEBUG - The board columns are [[31, 61, 60, 79, 56], [40, 82, 88, 94, 39], [33, 9, 91, 36, 8], [45, 32, 27, 83, 13], [89, 75, 62, 25, 55]]
+root - INFO - Successfully created board object number 15
+root - DEBUG - Board name is board_16
+root - DEBUG - The board rows are [[39, 95, 92, 2, 56], [88, 70, 63, 62, 13], [49, 43, 46, 0, 47], [83, 42, 44, 7, 26], [60, 27, 69, 73, 29]]
+root - DEBUG - The board columns are [[39, 88, 49, 83, 60], [95, 70, 43, 42, 27], [92, 63, 46, 44, 69], [2, 62, 0, 7, 73], [56, 13, 47, 26, 29]]
+root - INFO - Successfully created board object number 16
+root - DEBUG - Board name is board_17
+root - DEBUG - The board rows are [[54, 67, 26, 19, 45], [8, 50, 86, 51, 92], [60, 98, 31, 95, 53], [24, 71, 55, 22, 63], [4, 38, 21, 35, 32]]
+root - DEBUG - The board columns are [[54, 8, 60, 24, 4], [67, 50, 98, 71, 38], [26, 86, 31, 55, 21], [19, 51, 95, 22, 35], [45, 92, 53, 63, 32]]
+root - INFO - Successfully created board object number 17
+root - DEBUG - Board name is board_18
+root - DEBUG - The board rows are [[4, 34, 26, 32, 58], [16, 67, 76, 78, 46], [73, 95, 68, 56, 60], [35, 40, 42, 6, 87], [7, 97, 54, 92, 24]]
+root - DEBUG - The board columns are [[4, 16, 73, 35, 7], [34, 67, 95, 40, 97], [26, 76, 68, 42, 54], [32, 78, 56, 6, 92], [58, 46, 60, 87, 24]]
+root - INFO - Successfully created board object number 18
+root - DEBUG - Board name is board_19
+root - DEBUG - The board rows are [[98, 80, 66, 95, 14], [73, 19, 94, 63, 60], [52, 18, 28, 72, 26], [33, 93, 56, 4, 21], [59, 68, 74, 48, 3]]
+root - DEBUG - The board columns are [[98, 73, 52, 33, 59], [80, 19, 18, 93, 68], [66, 94, 28, 56, 74], [95, 63, 72, 4, 48], [14, 60, 26, 21, 3]]
+root - INFO - Successfully created board object number 19
+root - DEBUG - Board name is board_20
+root - DEBUG - The board rows are [[7, 27, 84, 80, 79], [1, 21, 11, 37, 47], [88, 38, 30, 8, 72], [4, 52, 13, 19, 26], [57, 6, 58, 0, 98]]
+root - DEBUG - The board columns are [[7, 1, 88, 4, 57], [27, 21, 38, 52, 6], [84, 11, 30, 13, 58], [80, 37, 8, 19, 0], [79, 47, 72, 26, 98]]
+root - INFO - Successfully created board object number 20
+root - DEBUG - Board name is board_21
+root - DEBUG - The board rows are [[62, 50, 0, 37, 77], [32, 31, 2, 53, 4], [74, 56, 41, 23, 59], [60, 89, 94, 54, 39], [76, 98, 20, 61, 82]]
+root - DEBUG - The board columns are [[62, 32, 74, 60, 76], [50, 31, 56, 89, 98], [0, 2, 41, 94, 20], [37, 53, 23, 54, 61], [77, 4, 59, 39, 82]]
+root - INFO - Successfully created board object number 21
+root - DEBUG - Board name is board_22
+root - DEBUG - The board rows are [[35, 90, 5, 80, 18], [45, 20, 60, 8, 77], [26, 17, 61, 55, 29], [24, 76, 3, 41, 64], [4, 74, 85, 10, 82]]
+root - DEBUG - The board columns are [[35, 45, 26, 24, 4], [90, 20, 17, 76, 74], [5, 60, 61, 3, 85], [80, 8, 55, 41, 10], [18, 77, 29, 64, 82]]
+root - INFO - Successfully created board object number 22
+root - DEBUG - Board name is board_23
+root - DEBUG - The board rows are [[62, 23, 27, 89, 61], [45, 65, 30, 14, 66], [52, 72, 48, 99, 0], [5, 40, 42, 81, 37], [93, 4, 67, 2, 9]]
+root - DEBUG - The board columns are [[62, 45, 52, 5, 93], [23, 65, 72, 40, 4], [27, 30, 48, 42, 67], [89, 14, 99, 81, 2], [61, 66, 0, 37, 9]]
+root - INFO - Successfully created board object number 23
+root - DEBUG - Board name is board_24
+root - DEBUG - The board rows are [[27, 87, 68, 50, 41], [18, 60, 12, 45, 48], [93, 38, 8, 6, 13], [99, 37, 59, 94, 64], [40, 55, 63, 67, 31]]
+root - DEBUG - The board columns are [[27, 18, 93, 99, 40], [87, 60, 38, 37, 55], [68, 12, 8, 59, 63], [50, 45, 6, 94, 67], [41, 48, 13, 64, 31]]
+root - INFO - Successfully created board object number 24
+root - DEBUG - Board name is board_25
+root - DEBUG - The board rows are [[70, 4, 34, 49, 71], [36, 81, 52, 62, 55], [18, 64, 63, 85, 5], [72, 99, 77, 76, 54], [22, 23, 0, 1, 37]]
+root - DEBUG - The board columns are [[70, 36, 18, 72, 22], [4, 81, 64, 99, 23], [34, 52, 63, 77, 0], [49, 62, 85, 76, 1], [71, 55, 5, 54, 37]]
+root - INFO - Successfully created board object number 25
+root - DEBUG - Board name is board_26
+root - DEBUG - The board rows are [[34, 88, 69, 20, 30], [73, 11, 93, 68, 56], [78, 35, 80, 22, 24], [15, 95, 32, 51, 25], [67, 91, 52, 5, 14]]
+root - DEBUG - The board columns are [[34, 73, 78, 15, 67], [88, 11, 35, 95, 91], [69, 93, 80, 32, 52], [20, 68, 22, 51, 5], [30, 56, 24, 25, 14]]
+root - INFO - Successfully created board object number 26
+root - DEBUG - Board name is board_27
+root - DEBUG - The board rows are [[8, 54, 26, 34, 71], [16, 47, 39, 96, 58], [4, 95, 38, 6, 45], [94, 63, 18, 99, 72], [19, 91, 80, 73, 30]]
+root - DEBUG - The board columns are [[8, 16, 4, 94, 19], [54, 47, 95, 63, 91], [26, 39, 38, 18, 80], [34, 96, 6, 99, 73], [71, 58, 45, 72, 30]]
+root - INFO - Successfully created board object number 27
+root - DEBUG - Board name is board_28
+root - DEBUG - The board rows are [[77, 9, 78, 76, 60], [8, 31, 73, 74, 17], [22, 25, 7, 64, 47], [75, 32, 89, 87, 40], [13, 44, 10, 95, 49]]
+root - DEBUG - The board columns are [[77, 8, 22, 75, 13], [9, 31, 25, 32, 44], [78, 73, 7, 89, 10], [76, 74, 64, 87, 95], [60, 17, 47, 40, 49]]
+root - INFO - Successfully created board object number 28
+root - DEBUG - Board name is board_29
+root - DEBUG - The board rows are [[78, 3, 90, 99, 6], [22, 52, 25, 53, 72], [55, 98, 77, 56, 32], [85, 86, 0, 7, 12], [74, 84, 33, 45, 1]]
+root - DEBUG - The board columns are [[78, 22, 55, 85, 74], [3, 52, 98, 86, 84], [90, 25, 77, 0, 33], [99, 53, 56, 7, 45], [6, 72, 32, 12, 1]]
+root - INFO - Successfully created board object number 29
+root - DEBUG - Board name is board_30
+root - DEBUG - The board rows are [[57, 53, 26, 54, 69], [56, 8, 58, 91, 40], [65, 97, 44, 51, 2], [85, 60, 72, 22, 89], [66, 16, 67, 90, 93]]
+root - DEBUG - The board columns are [[57, 56, 65, 85, 66], [53, 8, 97, 60, 16], [26, 58, 44, 72, 67], [54, 91, 51, 22, 90], [69, 40, 2, 89, 93]]
+root - INFO - Successfully created board object number 30
+root - DEBUG - Board name is board_31
+root - DEBUG - The board rows are [[9, 93, 65, 94, 29], [2, 80, 7, 16, 79], [11, 5, 21, 73, 50], [20, 70, 37, 48, 85], [99, 3, 55, 58, 8]]
+root - DEBUG - The board columns are [[9, 2, 11, 20, 99], [93, 80, 5, 70, 3], [65, 7, 21, 37, 55], [94, 16, 73, 48, 58], [29, 79, 50, 85, 8]]
+root - INFO - Successfully created board object number 31
+root - DEBUG - Board name is board_32
+root - DEBUG - The board rows are [[26, 37, 60, 63, 47], [21, 39, 69, 68, 22], [83, 94, 55, 91, 80], [35, 89, 6, 45, 17], [23, 85, 84, 73, 7]]
+root - DEBUG - The board columns are [[26, 21, 83, 35, 23], [37, 39, 94, 89, 85], [60, 69, 55, 6, 84], [63, 68, 91, 45, 73], [47, 22, 80, 17, 7]]
+root - INFO - Successfully created board object number 32
+root - DEBUG - Board name is board_33
+root - DEBUG - The board rows are [[74, 36, 81, 41, 8], [14, 22, 30, 86, 90], [84, 97, 11, 67, 77], [42, 47, 55, 76, 64], [95, 92, 59, 93, 53]]
+root - DEBUG - The board columns are [[74, 14, 84, 42, 95], [36, 22, 97, 47, 92], [81, 30, 11, 55, 59], [41, 86, 67, 76, 93], [8, 90, 77, 64, 53]]
+root - INFO - Successfully created board object number 33
+root - DEBUG - Board name is board_34
+root - DEBUG - The board rows are [[64, 16, 19, 68, 50], [90, 12, 47, 40, 62], [86, 1, 48, 2, 58], [96, 79, 92, 46, 91], [14, 85, 59, 45, 30]]
+root - DEBUG - The board columns are [[64, 90, 86, 96, 14], [16, 12, 1, 79, 85], [19, 47, 48, 92, 59], [68, 40, 2, 46, 45], [50, 62, 58, 91, 30]]
+root - INFO - Successfully created board object number 34
+root - DEBUG - Board name is board_35
+root - DEBUG - The board rows are [[3, 1, 55, 13, 5], [59, 85, 50, 42, 20], [67, 99, 17, 29, 39], [30, 35, 23, 49, 25], [89, 53, 21, 9, 6]]
+root - DEBUG - The board columns are [[3, 59, 67, 30, 89], [1, 85, 99, 35, 53], [55, 50, 17, 23, 21], [13, 42, 29, 49, 9], [5, 20, 39, 25, 6]]
+root - INFO - Successfully created board object number 35
+root - DEBUG - Board name is board_36
+root - DEBUG - The board rows are [[90, 91, 47, 99, 37], [82, 24, 56, 27, 2], [95, 57, 33, 4, 97], [51, 26, 29, 67, 98], [21, 62, 42, 43, 9]]
+root - DEBUG - The board columns are [[90, 82, 95, 51, 21], [91, 24, 57, 26, 62], [47, 56, 33, 29, 42], [99, 27, 4, 67, 43], [37, 2, 97, 98, 9]]
+root - INFO - Successfully created board object number 36
+root - DEBUG - Board name is board_37
+root - DEBUG - The board rows are [[92, 16, 89, 24, 96], [31, 18, 2, 64, 20], [6, 34, 99, 50, 85], [13, 32, 19, 43, 37], [48, 47, 23, 78, 77]]
+root - DEBUG - The board columns are [[92, 31, 6, 13, 48], [16, 18, 34, 32, 47], [89, 2, 99, 19, 23], [24, 64, 50, 43, 78], [96, 20, 85, 37, 77]]
+root - INFO - Successfully created board object number 37
+root - DEBUG - Board name is board_38
+root - DEBUG - The board rows are [[95, 16, 87, 61, 6], [46, 15, 24, 72, 60], [43, 56, 80, 35, 53], [97, 25, 98, 42, 14], [51, 11, 10, 3, 45]]
+root - DEBUG - The board columns are [[95, 46, 43, 97, 51], [16, 15, 56, 25, 11], [87, 24, 80, 98, 10], [61, 72, 35, 42, 3], [6, 60, 53, 14, 45]]
+root - INFO - Successfully created board object number 38
+root - DEBUG - Board name is board_39
+root - DEBUG - The board rows are [[96, 42, 4, 45, 40], [65, 8, 17, 58, 23], [53, 38, 14, 12, 84], [68, 92, 11, 6, 51], [87, 22, 5, 99, 0]]
+root - DEBUG - The board columns are [[96, 65, 53, 68, 87], [42, 8, 38, 92, 22], [4, 17, 14, 11, 5], [45, 58, 12, 6, 99], [40, 23, 84, 51, 0]]
+root - INFO - Successfully created board object number 39
+root - DEBUG - Board name is board_40
+root - DEBUG - The board rows are [[45, 51, 26, 18, 91], [7, 31, 95, 37, 74], [66, 41, 48, 20, 87], [99, 96, 64, 53, 0], [3, 28, 15, 46, 79]]
+root - DEBUG - The board columns are [[45, 7, 66, 99, 3], [51, 31, 41, 96, 28], [26, 95, 48, 64, 15], [18, 37, 20, 53, 46], [91, 74, 87, 0, 79]]
+root - INFO - Successfully created board object number 40
+root - DEBUG - Board name is board_41
+root - DEBUG - The board rows are [[66, 34, 23, 78, 12], [65, 72, 33, 14, 5], [4, 59, 3, 62, 64], [7, 60, 31, 52, 87], [80, 39, 27, 58, 74]]
+root - DEBUG - The board columns are [[66, 65, 4, 7, 80], [34, 72, 59, 60, 39], [23, 33, 3, 31, 27], [78, 14, 62, 52, 58], [12, 5, 64, 87, 74]]
+root - INFO - Successfully created board object number 41
+root - DEBUG - Board name is board_42
+root - DEBUG - The board rows are [[91, 94, 64, 46, 28], [99, 29, 79, 58, 0], [18, 19, 24, 59, 16], [3, 73, 52, 9, 86], [37, 61, 1, 93, 68]]
+root - DEBUG - The board columns are [[91, 99, 18, 3, 37], [94, 29, 19, 73, 61], [64, 79, 24, 52, 1], [46, 58, 59, 9, 93], [28, 0, 16, 86, 68]]
+root - INFO - Successfully created board object number 42
+root - DEBUG - Board name is board_43
+root - DEBUG - The board rows are [[37, 98, 80, 41, 53], [85, 18, 55, 31, 17], [39, 61, 63, 97, 52], [47, 22, 99, 50, 88], [48, 14, 9, 93, 96]]
+root - DEBUG - The board columns are [[37, 85, 39, 47, 48], [98, 18, 61, 22, 14], [80, 55, 63, 99, 9], [41, 31, 97, 50, 93], [53, 17, 52, 88, 96]]
+root - INFO - Successfully created board object number 43
+root - DEBUG - Board name is board_44
+root - DEBUG - The board rows are [[11, 66, 89, 91, 34], [98, 25, 53, 7, 65], [42, 32, 9, 14, 77], [85, 87, 26, 12, 64], [45, 99, 29, 88, 4]]
+root - DEBUG - The board columns are [[11, 98, 42, 85, 45], [66, 25, 32, 87, 99], [89, 53, 9, 26, 29], [91, 7, 14, 12, 88], [34, 65, 77, 64, 4]]
+root - INFO - Successfully created board object number 44
+root - DEBUG - Board name is board_45
+root - DEBUG - The board rows are [[63, 3, 16, 13, 33], [28, 32, 37, 90, 11], [94, 44, 18, 38, 68], [30, 87, 95, 52, 58], [79, 43, 53, 70, 19]]
+root - DEBUG - The board columns are [[63, 28, 94, 30, 79], [3, 32, 44, 87, 43], [16, 37, 18, 95, 53], [13, 90, 38, 52, 70], [33, 11, 68, 58, 19]]
+root - INFO - Successfully created board object number 45
+root - DEBUG - Board name is board_46
+root - DEBUG - The board rows are [[94, 67, 56, 43, 47], [77, 37, 93, 90, 92], [66, 48, 98, 20, 61], [51, 2, 85, 57, 11], [22, 84, 79, 17, 72]]
+root - DEBUG - The board columns are [[94, 77, 66, 51, 22], [67, 37, 48, 2, 84], [56, 93, 98, 85, 79], [43, 90, 20, 57, 17], [47, 92, 61, 11, 72]]
+root - INFO - Successfully created board object number 46
+root - DEBUG - Board name is board_47
+root - DEBUG - The board rows are [[86, 59, 15, 85, 5], [93, 41, 23, 53, 62], [46, 48, 70, 57, 49], [17, 45, 32, 79, 12], [64, 73, 26, 6, 9]]
+root - DEBUG - The board columns are [[86, 93, 46, 17, 64], [59, 41, 48, 45, 73], [15, 23, 70, 32, 26], [85, 53, 57, 79, 6], [5, 62, 49, 12, 9]]
+root - INFO - Successfully created board object number 47
+root - DEBUG - Board name is board_48
+root - DEBUG - The board rows are [[12, 88, 27, 43, 21], [66, 42, 84, 82, 62], [94, 46, 96, 63, 86], [69, 79, 40, 39, 92], [22, 87, 71, 44, 53]]
+root - DEBUG - The board columns are [[12, 66, 94, 69, 22], [88, 42, 46, 79, 87], [27, 84, 96, 40, 71], [43, 82, 63, 39, 44], [21, 62, 86, 92, 53]]
+root - INFO - Successfully created board object number 48
+root - DEBUG - Board name is board_49
+root - DEBUG - The board rows are [[89, 26, 45, 78, 25], [21, 40, 70, 66, 33], [97, 80, 94, 18, 1], [12, 55, 20, 24, 39], [7, 32, 31, 37, 72]]
+root - DEBUG - The board columns are [[89, 21, 97, 12, 7], [26, 40, 80, 55, 32], [45, 70, 94, 20, 31], [78, 66, 18, 24, 37], [25, 33, 1, 39, 72]]
+root - INFO - Successfully created board object number 49
+root - DEBUG - Board name is board_50
+root - DEBUG - The board rows are [[15, 56, 39, 57, 40], [67, 59, 26, 30, 90], [84, 2, 41, 25, 7], [96, 23, 79, 99, 85], [13, 10, 86, 51, 53]]
+root - DEBUG - The board columns are [[15, 67, 84, 96, 13], [56, 59, 2, 23, 10], [39, 26, 41, 79, 86], [57, 30, 25, 99, 51], [40, 90, 7, 85, 53]]
+root - INFO - Successfully created board object number 50
+root - DEBUG - Board name is board_51
+root - DEBUG - The board rows are [[73, 8, 79, 19, 48], [29, 36, 89, 62, 22], [13, 96, 59, 91, 10], [90, 9, 1, 78, 65], [83, 50, 24, 88, 60]]
+root - DEBUG - The board columns are [[73, 29, 13, 90, 83], [8, 36, 96, 9, 50], [79, 89, 59, 1, 24], [19, 62, 91, 78, 88], [48, 22, 10, 65, 60]]
+root - INFO - Successfully created board object number 51
+root - DEBUG - Board name is board_52
+root - DEBUG - The board rows are [[20, 61, 63, 82, 53], [86, 11, 55, 10, 85], [5, 37, 65, 21, 54], [89, 75, 59, 73, 48], [41, 50, 29, 71, 93]]
+root - DEBUG - The board columns are [[20, 86, 5, 89, 41], [61, 11, 37, 75, 50], [63, 55, 65, 59, 29], [82, 10, 21, 73, 71], [53, 85, 54, 48, 93]]
+root - INFO - Successfully created board object number 52
+root - DEBUG - Board name is board_53
+root - DEBUG - The board rows are [[81, 13, 46, 17, 47], [95, 19, 33, 91, 55], [5, 73, 54, 50, 98], [63, 77, 30, 40, 58], [9, 57, 94, 92, 20]]
+root - DEBUG - The board columns are [[81, 95, 5, 63, 9], [13, 19, 73, 77, 57], [46, 33, 54, 30, 94], [17, 91, 50, 40, 92], [47, 55, 98, 58, 20]]
+root - INFO - Successfully created board object number 53
+root - DEBUG - Board name is board_54
+root - DEBUG - The board rows are [[54, 99, 94, 23, 81], [32, 86, 50, 28, 8], [69, 18, 11, 39, 67], [10, 79, 91, 15, 43], [13, 98, 55, 16, 22]]
+root - DEBUG - The board columns are [[54, 32, 69, 10, 13], [99, 86, 18, 79, 98], [94, 50, 11, 91, 55], [23, 28, 39, 15, 16], [81, 8, 67, 43, 22]]
+root - INFO - Successfully created board object number 54
+root - DEBUG - Board name is board_55
+root - DEBUG - The board rows are [[83, 99, 54, 12, 80], [94, 61, 49, 33, 62], [16, 23, 68, 87, 10], [1, 76, 25, 89, 71], [8, 45, 74, 28, 27]]
+root - DEBUG - The board columns are [[83, 94, 16, 1, 8], [99, 61, 23, 76, 45], [54, 49, 68, 25, 74], [12, 33, 87, 89, 28], [80, 62, 10, 71, 27]]
+root - INFO - Successfully created board object number 55
+root - DEBUG - Board name is board_56
+root - DEBUG - The board rows are [[66, 28, 72, 76, 33], [9, 99, 27, 96, 60], [84, 67, 35, 50, 79], [55, 44, 18, 98, 13], [94, 70, 42, 21, 65]]
+root - DEBUG - The board columns are [[66, 9, 84, 55, 94], [28, 99, 67, 44, 70], [72, 27, 35, 18, 42], [76, 96, 50, 98, 21], [33, 60, 79, 13, 65]]
+root - INFO - Successfully created board object number 56
+root - DEBUG - Board name is board_57
+root - DEBUG - The board rows are [[96, 97, 79, 75, 46], [11, 65, 41, 72, 92], [87, 59, 26, 70, 10], [37, 8, 68, 73, 63], [55, 95, 84, 49, 50]]
+root - DEBUG - The board columns are [[96, 11, 87, 37, 55], [97, 65, 59, 8, 95], [79, 41, 26, 68, 84], [75, 72, 70, 73, 49], [46, 92, 10, 63, 50]]
+root - INFO - Successfully created board object number 57
+root - DEBUG - Board name is board_58
+root - DEBUG - The board rows are [[51, 27, 63, 31, 24], [82, 11, 87, 6, 2], [75, 57, 85, 1, 46], [91, 71, 72, 13, 56], [10, 64, 65, 49, 69]]
+root - DEBUG - The board columns are [[51, 82, 75, 91, 10], [27, 11, 57, 71, 64], [63, 87, 85, 72, 65], [31, 6, 1, 13, 49], [24, 2, 46, 56, 69]]
+root - INFO - Successfully created board object number 58
+root - DEBUG - Board name is board_59
+root - DEBUG - The board rows are [[36, 26, 67, 61, 84], [99, 10, 2, 24, 47], [35, 28, 65, 57, 91], [30, 27, 1, 78, 14], [96, 50, 70, 38, 37]]
+root - DEBUG - The board columns are [[36, 99, 35, 30, 96], [26, 10, 28, 27, 50], [67, 2, 65, 1, 70], [61, 24, 57, 78, 38], [84, 47, 91, 14, 37]]
+root - INFO - Successfully created board object number 59
+root - DEBUG - Board name is board_60
+root - DEBUG - The board rows are [[62, 33, 41, 98, 35], [80, 92, 4, 48, 70], [2, 11, 23, 15, 52], [83, 39, 79, 81, 1], [54, 93, 27, 18, 24]]
+root - DEBUG - The board columns are [[62, 80, 2, 83, 54], [33, 92, 11, 39, 93], [41, 4, 23, 79, 27], [98, 48, 15, 81, 18], [35, 70, 52, 1, 24]]
+root - INFO - Successfully created board object number 60
+root - DEBUG - Board name is board_61
+root - DEBUG - The board rows are [[12, 75, 20, 81, 23], [77, 99, 47, 24, 82], [92, 29, 85, 30, 21], [49, 45, 98, 4, 91], [9, 53, 28, 1, 54]]
+root - DEBUG - The board columns are [[12, 77, 92, 49, 9], [75, 99, 29, 45, 53], [20, 47, 85, 98, 28], [81, 24, 30, 4, 1], [23, 82, 21, 91, 54]]
+root - INFO - Successfully created board object number 61
+root - DEBUG - Board name is board_62
+root - DEBUG - The board rows are [[72, 46, 53, 3, 19], [83, 49, 39, 12, 22], [47, 62, 58, 14, 79], [82, 69, 84, 75, 1], [67, 7, 21, 45, 65]]
+root - DEBUG - The board columns are [[72, 83, 47, 82, 67], [46, 49, 62, 69, 7], [53, 39, 58, 84, 21], [3, 12, 14, 75, 45], [19, 22, 79, 1, 65]]
+root - INFO - Successfully created board object number 62
+root - DEBUG - Board name is board_63
+root - DEBUG - The board rows are [[43, 21, 47, 84, 94], [93, 53, 37, 44, 15], [48, 10, 59, 35, 41], [91, 78, 98, 34, 66], [85, 75, 95, 92, 39]]
+root - DEBUG - The board columns are [[43, 93, 48, 91, 85], [21, 53, 10, 78, 75], [47, 37, 59, 98, 95], [84, 44, 35, 34, 92], [94, 15, 41, 66, 39]]
+root - INFO - Successfully created board object number 63
+root - DEBUG - Board name is board_64
+root - DEBUG - The board rows are [[94, 6, 17, 16, 12], [39, 41, 11, 65, 78], [97, 85, 49, 64, 72], [59, 84, 83, 42, 28], [32, 96, 46, 89, 44]]
+root - DEBUG - The board columns are [[94, 39, 97, 59, 32], [6, 41, 85, 84, 96], [17, 11, 49, 83, 46], [16, 65, 64, 42, 89], [12, 78, 72, 28, 44]]
+root - INFO - Successfully created board object number 64
+root - DEBUG - Board name is board_65
+root - DEBUG - The board rows are [[54, 29, 71, 64, 78], [32, 13, 52, 58, 28], [84, 85, 95, 26, 86], [23, 41, 70, 53, 87], [27, 15, 57, 16, 2]]
+root - DEBUG - The board columns are [[54, 32, 84, 23, 27], [29, 13, 85, 41, 15], [71, 52, 95, 70, 57], [64, 58, 26, 53, 16], [78, 28, 86, 87, 2]]
+root - INFO - Successfully created board object number 65
+root - DEBUG - Board name is board_66
+root - DEBUG - The board rows are [[92, 99, 45, 81, 32], [86, 25, 56, 76, 52], [95, 3, 6, 88, 1], [71, 70, 24, 19, 62], [59, 16, 11, 2, 34]]
+root - DEBUG - The board columns are [[92, 86, 95, 71, 59], [99, 25, 3, 70, 16], [45, 56, 6, 24, 11], [81, 76, 88, 19, 2], [32, 52, 1, 62, 34]]
+root - INFO - Successfully created board object number 66
+root - DEBUG - Board name is board_67
+root - DEBUG - The board rows are [[43, 56, 11, 7, 49], [1, 50, 84, 89, 0], [97, 18, 60, 95, 25], [42, 33, 75, 31, 29], [35, 62, 78, 99, 76]]
+root - DEBUG - The board columns are [[43, 1, 97, 42, 35], [56, 50, 18, 33, 62], [11, 84, 60, 75, 78], [7, 89, 95, 31, 99], [49, 0, 25, 29, 76]]
+root - INFO - Successfully created board object number 67
+root - DEBUG - Board name is board_68
+root - DEBUG - The board rows are [[98, 84, 53, 3, 22], [54, 87, 41, 76, 83], [39, 27, 36, 79, 78], [55, 1, 89, 48, 81], [49, 26, 77, 96, 67]]
+root - DEBUG - The board columns are [[98, 54, 39, 55, 49], [84, 87, 27, 1, 26], [53, 41, 36, 89, 77], [3, 76, 79, 48, 96], [22, 83, 78, 81, 67]]
+root - INFO - Successfully created board object number 68
+root - DEBUG - Board name is board_69
+root - DEBUG - The board rows are [[99, 79, 98, 84, 47], [72, 14, 49, 3, 10], [30, 9, 12, 61, 1], [21, 50, 75, 82, 8], [86, 44, 13, 83, 88]]
+root - DEBUG - The board columns are [[99, 72, 30, 21, 86], [79, 14, 9, 50, 44], [98, 49, 12, 75, 13], [84, 3, 61, 82, 83], [47, 10, 1, 8, 88]]
+root - INFO - Successfully created board object number 69
+root - DEBUG - Board name is board_70
+root - DEBUG - The board rows are [[82, 94, 33, 70, 17], [97, 22, 45, 53, 55], [19, 71, 35, 54, 52], [41, 42, 63, 65, 3], [88, 10, 67, 81, 69]]
+root - DEBUG - The board columns are [[82, 97, 19, 41, 88], [94, 22, 71, 42, 10], [33, 45, 35, 63, 67], [70, 53, 54, 65, 81], [17, 55, 52, 3, 69]]
+root - INFO - Successfully created board object number 70
+root - DEBUG - Board name is board_71
+root - DEBUG - The board rows are [[50, 90, 18, 2, 22], [51, 85, 67, 40, 61], [3, 71, 99, 93, 46], [65, 29, 45, 60, 75], [5, 74, 6, 66, 98]]
+root - DEBUG - The board columns are [[50, 51, 3, 65, 5], [90, 85, 71, 29, 74], [18, 67, 99, 45, 6], [2, 40, 93, 60, 66], [22, 61, 46, 75, 98]]
+root - INFO - Successfully created board object number 71
+root - DEBUG - Board name is board_72
+root - DEBUG - The board rows are [[68, 80, 59, 29, 5], [6, 16, 45, 44, 92], [74, 13, 64, 30, 25], [69, 94, 54, 97, 3], [42, 47, 26, 19, 17]]
+root - DEBUG - The board columns are [[68, 6, 74, 69, 42], [80, 16, 13, 94, 47], [59, 45, 64, 54, 26], [29, 44, 30, 97, 19], [5, 92, 25, 3, 17]]
+root - INFO - Successfully created board object number 72
+root - DEBUG - Board name is board_73
+root - DEBUG - The board rows are [[38, 79, 36, 61, 90], [19, 59, 18, 3, 71], [70, 99, 16, 93, 22], [68, 34, 88, 76, 17], [75, 54, 49, 85, 86]]
+root - DEBUG - The board columns are [[38, 19, 70, 68, 75], [79, 59, 99, 34, 54], [36, 18, 16, 88, 49], [61, 3, 93, 76, 85], [90, 71, 22, 17, 86]]
+root - INFO - Successfully created board object number 73
+root - DEBUG - Board name is board_74
+root - DEBUG - The board rows are [[8, 96, 80, 15, 28], [23, 98, 58, 84, 69], [21, 3, 60, 38, 97], [43, 56, 34, 25, 64], [24, 1, 39, 44, 78]]
+root - DEBUG - The board columns are [[8, 23, 21, 43, 24], [96, 98, 3, 56, 1], [80, 58, 60, 34, 39], [15, 84, 38, 25, 44], [28, 69, 97, 64, 78]]
+root - INFO - Successfully created board object number 74
+root - DEBUG - Board name is board_75
+root - DEBUG - The board rows are [[21, 60, 14, 55, 29], [34, 61, 63, 18, 5], [19, 28, 54, 72, 7], [32, 46, 92, 80, 73], [40, 68, 75, 67, 98]]
+root - DEBUG - The board columns are [[21, 34, 19, 32, 40], [60, 61, 28, 46, 68], [14, 63, 54, 92, 75], [55, 18, 72, 80, 67], [29, 5, 7, 73, 98]]
+root - INFO - Successfully created board object number 75
+root - DEBUG - Board name is board_76
+root - DEBUG - The board rows are [[57, 21, 88, 90, 33], [63, 5, 25, 24, 49], [29, 7, 23, 19, 13], [85, 93, 75, 41, 68], [98, 69, 12, 76, 31]]
+root - DEBUG - The board columns are [[57, 63, 29, 85, 98], [21, 5, 7, 93, 69], [88, 25, 23, 75, 12], [90, 24, 19, 41, 76], [33, 49, 13, 68, 31]]
+root - INFO - Successfully created board object number 76
+root - DEBUG - Board name is board_77
+root - DEBUG - The board rows are [[74, 88, 75, 81, 51], [46, 77, 66, 60, 20], [47, 0, 23, 64, 43], [68, 41, 38, 65, 48], [53, 26, 54, 17, 83]]
+root - DEBUG - The board columns are [[74, 46, 47, 68, 53], [88, 77, 0, 41, 26], [75, 66, 23, 38, 54], [81, 60, 64, 65, 17], [51, 20, 43, 48, 83]]
+root - INFO - Successfully created board object number 77
+root - DEBUG - Board name is board_78
+root - DEBUG - The board rows are [[39, 21, 78, 15, 99], [25, 97, 24, 70, 56], [57, 66, 31, 75, 71], [47, 91, 30, 4, 65], [94, 11, 77, 76, 44]]
+root - DEBUG - The board columns are [[39, 25, 57, 47, 94], [21, 97, 66, 91, 11], [78, 24, 31, 30, 77], [15, 70, 75, 4, 76], [99, 56, 71, 65, 44]]
+root - INFO - Successfully created board object number 78
+root - DEBUG - Board name is board_79
+root - DEBUG - The board rows are [[35, 42, 72, 38, 51], [96, 32, 3, 64, 48], [81, 50, 37, 55, 79], [90, 67, 54, 6, 12], [31, 45, 71, 25, 76]]
+root - DEBUG - The board columns are [[35, 96, 81, 90, 31], [42, 32, 50, 67, 45], [72, 3, 37, 54, 71], [38, 64, 55, 6, 25], [51, 48, 79, 12, 76]]
+root - INFO - Successfully created board object number 79
+root - DEBUG - Board name is board_80
+root - DEBUG - The board rows are [[60, 58, 90, 3, 74], [48, 16, 49, 30, 46], [68, 51, 0, 80, 96], [26, 71, 36, 27, 28], [57, 94, 79, 42, 50]]
+root - DEBUG - The board columns are [[60, 48, 68, 26, 57], [58, 16, 51, 71, 94], [90, 49, 0, 36, 79], [3, 30, 80, 27, 42], [74, 46, 96, 28, 50]]
+root - INFO - Successfully created board object number 80
+root - DEBUG - Board name is board_81
+root - DEBUG - The board rows are [[96, 27, 94, 74, 89], [57, 19, 51, 5, 78], [20, 59, 14, 73, 69], [8, 41, 79, 76, 32], [24, 98, 63, 46, 13]]
+root - DEBUG - The board columns are [[96, 57, 20, 8, 24], [27, 19, 59, 41, 98], [94, 51, 14, 79, 63], [74, 5, 73, 76, 46], [89, 78, 69, 32, 13]]
+root - INFO - Successfully created board object number 81
+root - DEBUG - Board name is board_82
+root - DEBUG - The board rows are [[20, 53, 42, 70, 86], [12, 49, 96, 0, 77], [31, 26, 38, 22, 87], [51, 78, 60, 36, 13], [57, 8, 73, 94, 7]]
+root - DEBUG - The board columns are [[20, 12, 31, 51, 57], [53, 49, 26, 78, 8], [42, 96, 38, 60, 73], [70, 0, 22, 36, 94], [86, 77, 87, 13, 7]]
+root - INFO - Successfully created board object number 82
+root - DEBUG - Board name is board_83
+root - DEBUG - The board rows are [[75, 39, 93, 85, 99], [78, 50, 3, 96, 68], [62, 10, 28, 80, 41], [89, 40, 46, 69, 19], [37, 13, 16, 2, 67]]
+root - DEBUG - The board columns are [[75, 78, 62, 89, 37], [39, 50, 10, 40, 13], [93, 3, 28, 46, 16], [85, 96, 80, 69, 2], [99, 68, 41, 19, 67]]
+root - INFO - Successfully created board object number 83
+root - DEBUG - Board name is board_84
+root - DEBUG - The board rows are [[85, 24, 99, 70, 20], [31, 60, 41, 63, 81], [34, 87, 93, 39, 37], [55, 43, 44, 25, 78], [97, 21, 3, 28, 40]]
+root - DEBUG - The board columns are [[85, 31, 34, 55, 97], [24, 60, 87, 43, 21], [99, 41, 93, 44, 3], [70, 63, 39, 25, 28], [20, 81, 37, 78, 40]]
+root - INFO - Successfully created board object number 84
+root - DEBUG - Board name is board_85
+root - DEBUG - The board rows are [[44, 14, 92, 89, 62], [90, 76, 84, 52, 33], [78, 54, 26, 32, 9], [85, 99, 25, 10, 55], [28, 23, 22, 97, 94]]
+root - DEBUG - The board columns are [[44, 90, 78, 85, 28], [14, 76, 54, 99, 23], [92, 84, 26, 25, 22], [89, 52, 32, 10, 97], [62, 33, 9, 55, 94]]
+root - INFO - Successfully created board object number 85
+root - DEBUG - Board name is board_86
+root - DEBUG - The board rows are [[13, 38, 37, 98, 15], [78, 62, 9, 50, 2], [77, 68, 65, 18, 74], [90, 21, 95, 53, 33], [60, 25, 17, 64, 1]]
+root - DEBUG - The board columns are [[13, 78, 77, 90, 60], [38, 62, 68, 21, 25], [37, 9, 65, 95, 17], [98, 50, 18, 53, 64], [15, 2, 74, 33, 1]]
+root - INFO - Successfully created board object number 86
+root - DEBUG - Board name is board_87
+root - DEBUG - The board rows are [[45, 87, 64, 33, 66], [31, 85, 19, 90, 48], [74, 3, 70, 77, 9], [44, 46, 61, 91, 32], [0, 15, 94, 65, 22]]
+root - DEBUG - The board columns are [[45, 31, 74, 44, 0], [87, 85, 3, 46, 15], [64, 19, 70, 61, 94], [33, 90, 77, 91, 65], [66, 48, 9, 32, 22]]
+root - INFO - Successfully created board object number 87
+root - DEBUG - Board name is board_88
+root - DEBUG - The board rows are [[12, 1, 66, 47, 3], [63, 7, 2, 42, 21], [6, 75, 44, 26, 82], [52, 45, 48, 89, 68], [96, 92, 25, 15, 76]]
+root - DEBUG - The board columns are [[12, 63, 6, 52, 96], [1, 7, 75, 45, 92], [66, 2, 44, 48, 25], [47, 42, 26, 89, 15], [3, 21, 82, 68, 76]]
+root - INFO - Successfully created board object number 88
+root - DEBUG - Board name is board_89
+root - DEBUG - The board rows are [[64, 16, 49, 71, 28], [7, 45, 63, 74, 21], [87, 25, 46, 23, 9], [0, 31, 92, 24, 77], [65, 78, 22, 60, 75]]
+root - DEBUG - The board columns are [[64, 7, 87, 0, 65], [16, 45, 25, 31, 78], [49, 63, 46, 92, 22], [71, 74, 23, 24, 60], [28, 21, 9, 77, 75]]
+root - INFO - Successfully created board object number 89
+root - DEBUG - Board name is board_90
+root - DEBUG - The board rows are [[4, 54, 58, 83, 60], [25, 12, 82, 0, 73], [32, 62, 2, 31, 49], [64, 18, 35, 19, 10], [61, 46, 43, 34, 38]]
+root - DEBUG - The board columns are [[4, 25, 32, 64, 61], [54, 12, 62, 18, 46], [58, 82, 2, 35, 43], [83, 0, 31, 19, 34], [60, 73, 49, 10, 38]]
+root - INFO - Successfully created board object number 90
+root - DEBUG - Board name is board_91
+root - DEBUG - The board rows are [[84, 48, 30, 77, 79], [15, 42, 4, 25, 72], [28, 78, 22, 7, 70], [46, 6, 31, 24, 41], [98, 93, 34, 37, 71]]
+root - DEBUG - The board columns are [[84, 15, 28, 46, 98], [48, 42, 78, 6, 93], [30, 4, 22, 31, 34], [77, 25, 7, 24, 37], [79, 72, 70, 41, 71]]
+root - INFO - Successfully created board object number 91
+root - DEBUG - Board name is board_92
+root - DEBUG - The board rows are [[72, 9, 71, 1, 54], [97, 98, 91, 90, 92], [23, 88, 13, 87, 68], [45, 36, 86, 41, 56], [69, 16, 24, 20, 93]]
+root - DEBUG - The board columns are [[72, 97, 23, 45, 69], [9, 98, 88, 36, 16], [71, 91, 13, 86, 24], [1, 90, 87, 41, 20], [54, 92, 68, 56, 93]]
+root - INFO - Successfully created board object number 92
+root - DEBUG - Board name is board_93
+root - DEBUG - The board rows are [[35, 34, 60, 67, 52], [12, 73, 99, 89, 61], [33, 94, 27, 16, 15], [4, 64, 47, 22, 74], [24, 53, 71, 66, 76]]
+root - DEBUG - The board columns are [[35, 12, 33, 4, 24], [34, 73, 94, 64, 53], [60, 99, 27, 47, 71], [67, 89, 16, 22, 66], [52, 61, 15, 74, 76]]
+root - INFO - Successfully created board object number 93
+root - DEBUG - Board name is board_94
+root - DEBUG - The board rows are [[32, 62, 51, 58, 1], [11, 76, 75, 33, 60], [55, 54, 39, 52, 48], [6, 87, 3, 8, 99], [40, 65, 24, 66, 70]]
+root - DEBUG - The board columns are [[32, 11, 55, 6, 40], [62, 76, 54, 87, 65], [51, 75, 39, 3, 24], [58, 33, 52, 8, 66], [1, 60, 48, 99, 70]]
+root - INFO - Successfully created board object number 94
+root - DEBUG - Board name is board_95
+root - DEBUG - The board rows are [[61, 23, 22, 12, 74], [73, 25, 85, 11, 0], [20, 38, 26, 88, 33], [63, 39, 50, 49, 83], [71, 18, 56, 37, 7]]
+root - DEBUG - The board columns are [[61, 73, 20, 63, 71], [23, 25, 38, 39, 18], [22, 85, 26, 50, 56], [12, 11, 88, 49, 37], [74, 0, 33, 83, 7]]
+root - INFO - Successfully created board object number 95
+root - DEBUG - Board name is board_96
+root - DEBUG - The board rows are [[46, 12, 90, 52, 48], [73, 24, 78, 34, 94], [15, 19, 47, 72, 89], [60, 35, 74, 67, 30], [13, 18, 17, 93, 0]]
+root - DEBUG - The board columns are [[46, 73, 15, 60, 13], [12, 24, 19, 35, 18], [90, 78, 47, 74, 17], [52, 34, 72, 67, 93], [48, 94, 89, 30, 0]]
+root - INFO - Successfully created board object number 96
+root - DEBUG - Board name is board_97
+root - DEBUG - The board rows are [[37, 87, 0, 94, 27], [18, 56, 54, 4, 33], [84, 20, 12, 86, 6], [5, 40, 52, 97, 74], [63, 59, 69, 19, 77]]
+root - DEBUG - The board columns are [[37, 18, 84, 5, 63], [87, 56, 20, 40, 59], [0, 54, 12, 52, 69], [94, 4, 86, 97, 19], [27, 33, 6, 74, 77]]
+root - INFO - Successfully created board object number 97
+root - DEBUG - Board name is board_98
+root - DEBUG - The board rows are [[15, 53, 20, 35, 14], [24, 25, 63, 85, 79], [65, 96, 2, 60, 50], [72, 10, 77, 12, 92], [32, 94, 95, 16, 71]]
+root - DEBUG - The board columns are [[15, 24, 65, 72, 32], [53, 25, 96, 10, 94], [20, 63, 2, 77, 95], [35, 85, 60, 12, 16], [14, 79, 50, 92, 71]]
+root - INFO - Successfully created board object number 98
+root - DEBUG - Board name is board_99
+root - DEBUG - The board rows are [[78, 52, 55, 20, 40], [33, 66, 81, 48, 18], [32, 69, 13, 5, 84], [23, 67, 68, 61, 34], [11, 63, 4, 93, 65]]
+root - DEBUG - The board columns are [[78, 33, 32, 23, 11], [52, 66, 69, 67, 63], [55, 81, 13, 68, 4], [20, 48, 5, 61, 93], [40, 18, 84, 34, 65]]
+root - INFO - Successfully created board object number 99
+root - INFO - Successfully created 99 boards
+root - INFO - Created dictionary of boards
+root - DEBUG - The number of boards is 99
+root - DEBUG - The board rows are []
+root - DEBUG - The board columns are []
+root - INFO - Successfully created board object number None
+root - INFO - The winner board is board number 31
+root - INFO - The board is [[9, -1, -1, -1, -1], [-1, 80, -1, 16, -1], [-1, -1, -1, 73, -1], [-1, -1, -1, -1, 85], [-1, 3, -1, -1, -1]]
+root - INFO - The last number is number 21
+root - INFO - The winner board is board number 31
+root - INFO - The board is [[9, -1, -1, -1, -1], [-1, 80, -1, 16, -1], [-1, -1, -1, 73, -1], [-1, -1, -1, -1, 85], [-1, 3, -1, -1, -1]]
+root - DEBUG - The flatten board is [9, -1, -1, -1, -1, -1, 80, -1, 16, -1, -1, -1, -1, 73, -1, -1, -1, -1, -1, 85, -1, 3, -1, -1, -1]
+root - DEBUG - The total not matched is 266
+root - INFO - The last number is number 21

@@ -10,7 +10,6 @@ logging.basicConfig(
 
 
 class Board:
-
     @classmethod
     def create_columns(cls, board_raw: list) -> list:
         board: list = []
@@ -144,7 +143,9 @@ if __name__ == "__main__":
                     last_winning_board = board
                     last_number = number
                 if len(winning_boards) == len(boards):
-                    logging.info(f"The winner board is board number {last_winning_board.number}")
+                    logging.info(
+                        f"The winner board is board number {last_winning_board.number}"
+                    )
                     logging.info(f"The board is {last_winning_board.rows}")
                     logging.info(f"The last number is number {last_number}")
                     break
